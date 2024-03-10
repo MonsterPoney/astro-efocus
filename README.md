@@ -44,6 +44,7 @@ I used a library for the motor driver available [here](https://github.com/Andrea
 
 To upload to an ATTINY85 I added this URL https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json in the board manager in preferences.
 ![settings](/readme_resources/settings.PNG?raw=true)
+
 For reminder, you need to burn the bootloader when using a brand new µC before uploading the code.
 
 I put STBY pin of the motor driver to be always HIGH so it's not controlled by the µC, simplier and one less source of problem even if it's not optimised. Plus it only draw a negligible current and it's not a problem with a DC motor comparred to a stepper.
@@ -103,6 +104,7 @@ J'ai utilisé une bibliothèque pour le driver de moteur disponible [ici](https:
 
 Pour télécharger sur un ATTINY85, j'ai ajouté cette URL https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json dans le gestionnaire de cartes dans les préférences.
 ![settings](/readme_resources/settings.PNG?raw=true)
+
 Pour rappel, vous devez graver le bootloader lorsque vous utilisez un tout nouveau µC avant de téléverser le code.
 
 J'ai mis la broche STBY du driver du moteur pour être toujours HIGH pour qu'elle ne soit pas contrôlée par le µC, c'est plus simple et c'est une source de problème en moins même si ce n'est pas optimisée. De plus, il ne consomme qu'un courant négligeable et ce n'est pas un problème avec un moteur à courant continu par rapport à un moteur pas à pas.
