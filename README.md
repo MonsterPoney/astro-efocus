@@ -5,8 +5,7 @@ Once installed, usage is really simple:
 - The potentiometer in middle position does nothing
 - Turn it left or right to adjust the focus in a direction
 - The more you turn the faster the focus will move
-
-![demo](/readme_resources/efocus-demo.gif?raw=true)
+<img src="/readme_resources/efocus-demo.gif" width="40%" height="40%">
 
 ### Generalities
 Project difficulty :
@@ -27,11 +26,13 @@ Parts needed:
 ### Electronic
 If you choose to use a standalone µC, you can either use a perfboard or make a PCB.
 Extended Gerber (RS-274X) available in this repo.
-PCB dimensions are 43.5mm x 43.1mm
-![pcb](/readme_resources/pcb.jpg?raw=true)
+PCB dimensions are 43.5mm x 43.1mm.
+
+<img src="/readme_resources/pcb.jpg" width="40%" height="40%">
 
 Wiring:
-![wiring](/readme_resources/schem.svg?raw=true&sanitize=true)
+
+<img src="/readme_resources/schem.svg" width="40%" height="40%">
 
 ### Programmation
 Nothing too fancy here, the code is short and simple.
@@ -65,8 +66,7 @@ Une fois installé, l'utilisation est très simple :
 - Le potentiomètre en position médiane ne fait rien
 - Tournez-le à gauche ou à droite pour régler la mise au point dans une direction
 - Plus vous tournez, plus le focus se déplacera rapidement
-
-![demo](/readme_resources/efocus-demo.gif?raw=true)
+<img src="/readme_resources/efocus-demo.gif" width="40%" height="40%">
 
 ### Généralités
 Difficulté du projet :
@@ -88,10 +88,12 @@ Pièces nécessaires :
 Si vous choisissez d'utiliser un µC autonome, vous pouvez soit utiliser une perfboard, soit faire un PCB.
 Gerber (RS-274X) disponible.
 Les dimensions du PCB sont de 43,5 mm x 43,1 mm
-![pcb](/readme_resources/pcb.jpg?raw=true)
+
+<img src="/readme_resources/pcb.jpg" width="40%" height="40%">
 
 Câblage :
-![wiring](/readme_resources/schem.svg?raw=true&sanitize=true)
+
+<img src="/readme_resources/schem.svg" width="40%" height="40%">
 
 ### Programmation
 Rien de bien compliqué ici, le code est simple.
