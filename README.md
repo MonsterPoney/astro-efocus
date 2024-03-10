@@ -12,7 +12,7 @@ Project difficulty :
 Basic knowledges on the usage of an arduino
 
 To keep things clean, I will focus here on the electronic & programmation
-And for the 3d printed parts, go to this [Thingiverse page](https://www.thingiverse.com/thing:<TODO: Thingiverse page>)
+And for the 3d printed parts, go to this [Thingiverse page](https://www.thingiverse.com/thing:6526574)
 
 
 Parts needed: 
@@ -73,7 +73,7 @@ Difficulté du projet :
 Connaissances de base sur l'utilisation d'un arduino
 
 Pour garder les choses propres, je vais me concentrer ici sur l'électronique et la programmation.
-Pour les pièces imprimées en 3D, rendez-vous sur cette [page Thingiverse](https://www.thingiverse.com/thing:<TODO : page Thingiverse>)
+Pour les pièces imprimées en 3D, rendez-vous sur cette [page Thingiverse](https://www.thingiverse.com/thing:6526574)
 
 
 Pièces nécessaires :
